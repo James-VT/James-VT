@@ -1,7 +1,19 @@
-### Hi there 👋
+### Welcome!
+
+What I love about GitHub is that I can have all my bits and pieces and half-finished projects in one place, and it'll still look tidier than a physical workbench used in the same way.
+
+I'm currently going back to basics on Python, making sure I've nailed some very simple functionality like data type manipulation. As you can see from my repos and my pinned projects, I've already worked with it and even built two working projects (one with Flask, one with Django) but I want to make sure I don't get rusty while learning other things.
+
+What do I mean by other things?
+
+I'm currently getting to grips with VSCode, having used only Gitpod up to this point. Although Gitpod uses VSCode, I'm hoping to learn to use that system itself from my own machine.
+
+Aside from Python, I'm hoping to dive deeper into shell code in the future and get back to working with JavaScript, which I enjoyed and miss.
 
 <!--
 **James-VT/James-VT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+👋
 
 Here are some ideas to get you started:
 
