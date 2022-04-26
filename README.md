@@ -8,7 +8,7 @@ What do I mean by other things?
 
 I'm currently getting to grips with VSCode, having used only Gitpod up to this point. Although Gitpod uses VSCode, I'm hoping to learn to use that system itself from my own machine.
 
-Aside from Python, I'm hoping to dive deeper into shell code in the future and get back to working with JavaScript, which I enjoyed and miss.
+I'm currently learning to use NPM for JavaScript, in order to dive deeper into APIs.
 
 <!--
 **James-VT/James-VT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
