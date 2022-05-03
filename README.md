@@ -6,8 +6,7 @@ I'm currently going back to basics on Python, making sure I've nailed some very 
 
 What do I mean by other things?
 
-I'm currently getting to grips with VSCode, having used only Gitpod up to this point. I am using VSCode to built my current project, which is a calculator for cooking meat.
-
+I'm currently getting to grips with VSCode, having used only Gitpod up to this point. I am using VSCode as the IDE to build my current project, which is a calculator for cooking meat. This serves both as a way to learn to use VSCode and get some more practice with JavaScript.
 
 
 <!--
