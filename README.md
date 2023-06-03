@@ -2,11 +2,7 @@
 
 What I love about GitHub is that I can have all my bits and pieces and half-finished projects in one place, and it'll still look tidier than my desk.
 
-I am currently working on a couple of things. One project with Python, and another with JavaScript.
-
-With Python, I am currently learning NumPy and Pandas.
-
-With JavaScript, I am currently building a meat cooking calculator.
+Now that I have landed a job as a software engineer, my personal commit history is looking very thin. I've recently re-picked up one of my projects, however: my meat calculator. This is a JavaScript project, and my current goal is to integrate TypeScript into this to some degree. My hobby-coding is mostly restricted to weekends now, or the occasional train journey/coffee stop during the week.
 
 
 <!--
