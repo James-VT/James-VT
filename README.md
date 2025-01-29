@@ -1,9 +1,6 @@
 ### Welcome!
 
-What I love about GitHub is that I can have all my bits and pieces and half-finished projects in one place, and it'll still look tidier than my desk.
-
-Now that I have landed a job as a software engineer, my personal commit history is looking very thin. I've recently re-picked up one of my projects, however: my meat calculator. This is a JavaScript project, and my current goal is to integrate TypeScript into this to some degree. My hobby-coding is mostly restricted to weekends now, or the occasional train journey/coffee stop during the week.
-
+Not many commits to see here at present - most of my code has either been for work, or solo with no current need to push. Recent (and by recent I mean January 2025) work has been on getting my old projects running again, by combing through error logs on Render and bringing MongoDB back to life.
 
 <!--
 **James-VT/James-VT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
