@@ -2,6 +2,8 @@
 
 Not many commits to see here at present - most of my code has either been for work, or solo with no current need to push. Recent (and by recent I mean April 2025) work has been on getting my old projects running again, by combing through error logs on Render and bringing MongoDB back to life. I've also been focussing on my cloud work (now certified for AWS cloud as of early April) but you won't see any of that here because £££.
 
+August 2025 update: I've uploaded a little of my solo work so this thing doesn't look abandoned, and I want to back up some of my work in a place that isn't my own PC anyway. So I'm now hosting the script for my current project, which is a mod for Skyrim SE/AE, here as well. I can't store things like the custom cell or navmesh (not to mention the work on the assets, which took ages) here but everything will be on the Nexus and/or possibly the Creation Club when it's in a state I can consider 1.0.
+
 <!--
 **James-VT/James-VT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
